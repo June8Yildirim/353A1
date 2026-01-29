@@ -1,0 +1,6 @@
+id,name,major
+101,Alice Johnson,Computer Science
+102,Bob Smith,Mathematics
+103,Charlie Davis,Physics
+104,Dana Lee,Biology
+105,Evan Wright,Economics
